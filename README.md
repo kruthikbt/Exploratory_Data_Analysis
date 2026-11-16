@@ -130,10 +130,9 @@ jupyter notebook Program-03-Visualization/program03.ipynb
 
 <div align="center">
 
-**YOUR NAME**
-🎓 Your College / Branch / Year
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kruthikbt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
 
 ⭐ **If this repo helped you, give it a star!** ⭐
